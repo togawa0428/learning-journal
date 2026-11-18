@@ -1,0 +1,28 @@
+{
+  "completed": 17,
+  "total": 246,
+  "percent": 6.9,
+  "courses": {
+    "DX": {
+      "label": "DX推進講座",
+      "completed": 17,
+      "total": 131
+    },
+    "PMBOK": {
+      "label": "PMBOK第8版講座",
+      "completed": 0,
+      "total": 115
+    }
+  },
+  "daily": [
+    {
+      "date": "2026-11-16",
+      "completed": 7
+    },
+    {
+      "date": "2026-11-17",
+      "completed": 10
+    }
+  ],
+  "undatedCompleted": 0
+}
