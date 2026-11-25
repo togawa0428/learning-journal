@@ -1,11 +1,11 @@
 {
-  "completed": 44,
+  "completed": 50,
   "total": 246,
-  "percent": 17.9,
+  "percent": 20.3,
   "courses": {
     "DX": {
       "label": "DX推進講座",
-      "completed": 44,
+      "completed": 50,
       "total": 131
     },
     "PMBOK": {
@@ -30,6 +30,10 @@
     {
       "date": "2026-11-24",
       "completed": 12
+    },
+    {
+      "date": "2026-11-25",
+      "completed": 6
     }
   ],
   "undatedCompleted": 0
